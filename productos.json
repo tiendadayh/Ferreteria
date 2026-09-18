@@ -1,12 +1,1 @@
-[
-    {
-        "codigo": "a2",
-        "articulo": "Pala De Madera",
-        "precio": 150.0,
-        "stock": 1,
-        "categoria": "Herramientas Manuales",
-        "imagen": "imagenes_productos/IMG_a2_1789714313.jpg",
-        "destacado": false,
-        "unidad": "pza"
-    }
-]
+[]
