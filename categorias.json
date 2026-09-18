@@ -1,0 +1,42 @@
+[
+  {
+    "nombre": "Herramientas Manuales",
+    "icono": "🔨"
+  },
+  {
+    "nombre": "Herramientas Eléctricas",
+    "icono": "🔌"
+  },
+  {
+    "nombre": "Electricidad",
+    "icono": "💡"
+  },
+  {
+    "nombre": "Plomería",
+    "icono": "🚰"
+  },
+  {
+    "nombre": "Tornillería",
+    "icono": "🔩"
+  },
+  {
+    "nombre": "Pintura",
+    "icono": "🎨"
+  },
+  {
+    "nombre": "Construcción",
+    "icono": "🧱"
+  },
+  {
+    "nombre": "Seguridad",
+    "icono": "🦺"
+  },
+  {
+    "nombre": "Jardín",
+    "icono": "🌱"
+  },
+  {
+    "nombre": "General",
+    "icono": "📦"
+  }
+]
