@@ -8,5 +8,15 @@
         "imagen": "imagenes_productos/IMG_a1_1789716155.jpg",
         "destacado": false,
         "unidad": "pza"
+    },
+    {
+        "codigo": "a2",
+        "articulo": "Escoba",
+        "precio": 50.0,
+        "stock": 1,
+        "categoria": "Herramientas Manuales",
+        "imagen": "imagenes_productos/IMG_a2_1789716727.jpg",
+        "destacado": false,
+        "unidad": "pza"
     }
 ]
